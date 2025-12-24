@@ -1,0 +1,5 @@
+{
+  "name": "18-Day Work Month Manager",
+  "description": "A monthly calendar tool to manage a fixed 18-day work schedule. Automatically calculates weekdays, Japanese holidays, and trackable free days.",
+  "requestFramePermissions": []
+}
